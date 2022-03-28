@@ -9,6 +9,7 @@ namespace CMP1903M_Assessment_1_Base_Code
     public class Analyse
     {
         //Handles the analysis of text
+        //Modification to make git think a change has occured.
 
         //Method: analyseText
         //Arguments: string
